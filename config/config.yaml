@@ -1,0 +1,24 @@
+datasets:
+  gsm8k: openai/gsm8k
+models:
+  base_name: togethercomputer/RedPajama-INCITE-7B-Base
+  base_quant:
+    load_in_4bit: true
+    bnb_4bit_quant_type: nf4
+    bnb_4bit_use_double_quant: true
+    device_map: auto
+  flash_writer:
+    d_model: 1024
+    depth: 12
+    latents: 8
+    vocab: 32000
+    max_ctx: 4096
+hyperparams:
+  lora_r: 16
+  lora_alpha: 32
+  lora_steps: 100
+  support_k: 8
+seeds:
+- 11
+- 29
+- 97

@@ -1,1 +1,18 @@
-# Please list the required python packages.
+[project]
+name = "flashpet-research"
+version = "0.1.0"
+requires-python = ">=3.9"
+description = "FlashP.E.T – parameter-efficient one-shot personalisation experiments"
+authors = [
+  {name="Researcher", email="research@example.com"}
+]
+
+[project.dependencies]
+torch = "*"
+transformers = "*"
+peft = "*"
+datasets = "*"
+bitsandbytes = "*"
+PyYAML = "*"
+matplotlib = "*"
+seaborn = "*"
