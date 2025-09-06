@@ -1,0 +1,10 @@
+{
+  "research_topic": "LLMの高速な新しい学習方法に関する研究",
+  "queries": [
+    "fast LLM fine-tuning",
+    "LLM parameter-efficient tuning",
+    "quantized LLM training",
+    "LLM knowledge distillation",
+    "meta-learning LLM"
+  ]
+}
