@@ -6,5 +6,82 @@
     "quantized LLM training",
     "LLM knowledge distillation",
     "meta-learning LLM"
+  ],
+  "research_study_list": [
+    {
+      "title": "S$^{2}$FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity"
+    },
+    {
+      "title": "VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections"
+    },
+    {
+      "title": "Selecting Large Language Model to Fine-tune via Rectified Scaling Law"
+    },
+    {
+      "title": "When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method"
+    },
+    {
+      "title": "Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark"
+    },
+    {
+      "title": "ReFT: Representation Finetuning for Language Models"
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces"
+    },
+    {
+      "title": "When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method"
+    },
+    {
+      "title": "DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning"
+    },
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Intriguing Properties of Quantization at Scale"
+    },
+    {
+      "title": "QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models"
+    },
+    {
+      "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression"
+    },
+    {
+      "title": "PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression"
+    },
+    {
+      "title": "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models"
+    },
+    {
+      "title": "DDK: Distilling Domain Knowledge for Efficient Large Language Models"
+    },
+    {
+      "title": "MiniLLM: Knowledge Distillation of Large Language Models"
+    },
+    {
+      "title": "DistiLLM: Towards Streamlined Distillation for Large Language Models"
+    },
+    {
+      "title": "Propagating Knowledge Updates to LMs Through Distillation"
+    },
+    {
+      "title": "Adversarial Moment-Matching Distillation of Large Language Models"
+    },
+    {
+      "title": "Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning"
+    },
+    {
+      "title": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+    },
+    {
+      "title": "Context-Aware Meta-Learning"
+    },
+    {
+      "title": "Meta-in-context learning in large language models"
+    },
+    {
+      "title": "Implicit meta-learning may lead language models to trust more reliable sources"
+    }
   ]
 }
